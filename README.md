@@ -180,9 +180,10 @@ public class activity_second extends AppCompatActivity {
 ```
 
 # OUPUT
-![Screenshot 2024-03-09 144416](https://github.com/ssnithyaasri/INTENT_GIT/assets/119122478/219328fb-1606-42de-ac60-d504ab5536b9)
-![Screenshot 2024-03-09 144431](https://github.com/ssnithyaasri/INTENT_GIT/assets/119122478/821ab5fc-b713-4154-b648-1f06fe200564)
-![Screenshot 2024-03-09 144609](https://github.com/ssnithyaasri/INTENT_GIT/assets/119122478/393c10a2-e639-46a8-9f0f-22d3e3351199)
+![312686839-69a09090-65b3-4632-8382-db7517c1a7cd](https://github.com/dakshasubbaian/INTENT_GIT/assets/112880924/6397064a-3e7a-488e-8aeb-9574e4d1aabf)
+![312686869-7e22a3dd-2d67-4e45-bd53-94a178b6da91](https://github.com/dakshasubbaian/INTENT_GIT/assets/112880924/ad5b0fc2-b45f-4609-9d96-b95e75ca9dd0)
+![312686896-38824e5d-ad9c-40a4-90cd-cde2f9ff550f](https://github.com/dakshasubbaian/INTENT_GIT/assets/112880924/3c337062-e5c5-4a1d-9dd3-c8365c11947d)
+
 
 # RESULT:
 Thus a Simple Android Application to open google page using Implicit Intents in Android Studio was developed and executed successfully.
